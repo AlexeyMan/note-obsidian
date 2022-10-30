@@ -11,9 +11,11 @@
             "id": "3b456a62e220aeb4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "img/Pasted image 20221030170150.png"
+                "file": "Планировщик/1. Планировщик заданий.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -47,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bnjdfkdflkfmg ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "img/Pasted image 20221030170150.png",
+                "file": "Планировщик/1. Планировщик заданий.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "img/Pasted image 20221030170150.png",
+                "file": "Планировщик/1. Планировщик заданий.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -124,28 +126,44 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "img/Pasted image 20221030170150.png"
+                "file": "Планировщик/1. Планировщик заданий.md"
               }
+            }
+          },
+          {
+            "id": "a6aa08c1a814baeb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "9e9d73dcae711a0f",
+            "type": "leaf",
+            "state": {
+              "type": "side-panel-control-view",
+              "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
     "width": 300
   },
-  "active": "78cc2923e51dfaf5",
+  "active": "9e9d73dcae711a0f",
   "lastOpenFiles": [
-    "img/Pasted image 20221030171802.png",
-    "img/Pasted image 20221030170150.png",
-    "img/Pasted image 20221030170022.png",
-    "Планировщик/1. Планировщик заданий.md",
-    "1. Планировщик заданий/Без названия.md",
-    "swagen/Аннотации.md",
-    "Pasted.md",
     "Планировщик/План.md",
-    "Тестовая модель/1.1 что-то.md",
-    "Тестовая модель/1.2 сссс.md"
+    "Планировщик/1. Планировщик заданий.md",
+    "реестр гис/Без названия.md",
+    "реестр гис/2022-10-25.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "img/Pasted image 20221030170150.png",
+    "img/Pasted image 20221030171802.png",
+    "img/Pasted image 20221030170022.png",
+    "1. Планировщик заданий/Без названия.md"
   ]
 }

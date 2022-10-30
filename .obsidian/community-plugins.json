@@ -1,4 +1,17 @@
 [
   "code-block-plugin",
-  "obsidian-git"
+  "obsidian-git",
+  "hotkeysplus-obsidian",
+  "templater-obsidian",
+  "obsidian-charts",
+  "obsidian-markdown-formatting-assistant-plugin",
+  "table-editor-obsidian",
+  "code-block-copy",
+  "cm-editor-syntax-highlight-obsidian",
+  "code-block-from-selection",
+  "remember-cursor-position",
+  "consistent-attachments-and-links",
+  "obsidian-admonition",
+  "highlightr-plugin",
+  "markdown-prettifier"
 ]
