@@ -1,0 +1,151 @@
+{
+  "main": {
+    "id": "e936dfc7c92d8899",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f416d1b294515c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b456a62e220aeb4",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "img/Pasted image 20221030170150.png"
+              }
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9cf6a8301a4fba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "914af5e77f99ad96",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "78cc2923e51dfaf5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0dc898484b217181",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a5bcb2805871c12d",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "fff8a883939d4bff",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e7b7976a7e84ce9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4d83b0e0240b75b3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Pasted image 20221030170150.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "761c322ae811e5b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "img/Pasted image 20221030170150.png",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "595bc3ab016416f1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b7cabbe0fd010ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "img/Pasted image 20221030170150.png"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "78cc2923e51dfaf5",
+  "lastOpenFiles": [
+    "img/Pasted image 20221030171802.png",
+    "img/Pasted image 20221030170150.png",
+    "img/Pasted image 20221030170022.png",
+    "Планировщик/1. Планировщик заданий.md",
+    "1. Планировщик заданий/Без названия.md",
+    "swagen/Аннотации.md",
+    "Pasted.md",
+    "Планировщик/План.md",
+    "Тестовая модель/1.1 что-то.md",
+    "Тестовая модель/1.2 сссс.md"
+  ]
+}
