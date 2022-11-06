@@ -13,5 +13,10 @@
   "consistent-attachments-and-links",
   "obsidian-admonition",
   "highlightr-plugin",
-  "markdown-prettifier"
+  "markdown-prettifier",
+  "media-extended",
+  "note-refactor-obsidian",
+  "url-into-selection",
+  "convert-url-to-iframe",
+  "meld-encrypt"
 ]
