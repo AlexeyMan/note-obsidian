@@ -6,7 +6,6 @@
       {
         "id": "6f416d1b294515c8",
         "type": "tabs",
-        "dimension": 72.35984354628422,
         "children": [
           {
             "id": "3b456a62e220aeb4",
@@ -14,58 +13,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
-                "mode": "source",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "7a2e41b756f710b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "stacked": true
-      },
-      {
-        "id": "1c91434dccc92c41",
-        "type": "tabs",
-        "dimension": 27.640156453715775,
-        "children": [
-          {
-            "id": "01ae842f43dc0df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
-                "mode": "preview",
-                "source": true
-              }
-            }
-          },
-          {
-            "id": "f6cbfd5c1021dd3e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
+                "file": "2022-12-25.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "c2283333fdbd8ec1",
+            "id": "4f9757bbc44ec758",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -77,23 +32,19 @@
             }
           },
           {
-            "id": "7bfff5bd0f2247cb",
+            "id": "bcc97a6751dbfcd0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "abd69d3855fc8f5a",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Obsidian/библиотеки/Mermaid.md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -159,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
+                "file": "2022-12-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md",
+                "file": "2022-12-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -199,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Проект жкх/Архитектура/Мнемосхема.md"
+                "file": "2022-12-25.md"
               }
             }
           },
@@ -212,7 +163,7 @@
             }
           },
           {
-            "id": "9e9d73dcae711a0f",
+            "id": "82a9bd15b674419c",
             "type": "leaf",
             "state": {
               "type": "side-panel-control-view",
@@ -220,24 +171,36 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "obsidian-markdown-formatting-assistant-plugin:Open Markdown Formatting Assistant": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false
+    }
   },
   "active": "3b456a62e220aeb4",
   "lastOpenFiles": [
+    "Без названия.canvas",
     "hotkey/Строки.md",
-    "Проект жкх/Архитектура/Мнемосхема.md",
-    "Проект жкх/Архитектура/Микросервисы.md",
+    "git/Настройка авторизации.md",
+    "Obsidian/библиотеки/Mermaid.md",
+    "Проект жкх/Архитектура/API gatewey.md",
     "Проект жкх/Сервисы/Авторизация/Запуск.md",
     "Проект жкх/Сервисы/Авторизация/API.md",
-    "Проект жкх/Сервисы/Авторизация/JWT.md",
     "Проект жкх/Posgres/Скрипты.md",
-    "Планировщик/1. Планировщик заданий.md",
-    "Obsidian/библиотеки/Mermaid.md",
-    "Без названия.md"
+    "Проект жкх/Сервисы/Авторизация/JWT.md",
+    "Проект жкх/Архитектура/Мнемосхема.md"
   ]
 }
