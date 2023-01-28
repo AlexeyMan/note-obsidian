@@ -1,0 +1,1 @@
+https://starkovden.github.io/swagger-ui-tutorial.html
